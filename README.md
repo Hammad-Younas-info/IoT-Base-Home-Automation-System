@@ -1,4 +1,4 @@
-# 🏠 IoT-Base Home Automation System using Arduino
+# 🏠Home Automation System using Arduino
 
 A simple time-based home automation system built with **Arduino Uno**, **16x2 LCD**, **DS3231 RTC Module**, **Relay**, **Buttons**, and a **Bulb**. This project allows scheduled and manual control of a home appliance (like a bulb) and displays real-time status on an LCD.
 
